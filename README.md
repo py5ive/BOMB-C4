@@ -6,12 +6,11 @@
 * FAST AND EASY TO USE
 
 ## RECOMMENDED 📒
-Don't send mail more than 50 per time 
+Don't send mail more than 200 per time 
 
 ## Contact Me ☎
 
-#### Instagram: https://www.instagram.com/dx4iot/
+#### Instagram: https://www.instagram.com/__manas07__/
 
-#### LinkedIn: https://www.linkedin.com/in/dx4iot
+#### Telegram: https://t.me/py5ive
 
-#### Facebook: https://www.facebook.com/dx4iot/

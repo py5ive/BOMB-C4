@@ -30,12 +30,11 @@ SMTP_MAIL.starttls()
 SMTP_MAIL.login(GMAIL_USERNAME,GMAIL_PASSWORD)  
 for i in range(1,ENTER_TIME):
     email_subject = "".join((random.choice(capital_letters+small_letters)) for i in range(0,10))
-    # message masala
+
     type_sent = f"from: {GMAIL_USERNAME}\nsubject: {email_subject}\nto: {GMAIL_RECIPIENT}\n"
     result = type_sent+ "\n" +BODY
     SMTP_MAIL.sendmail(GMAIL_USERNAME,GMAIL_RECIPIENT,result)
-    print(f"{i}|MAIL HAS BEEN SENT")
-
+    print(f"{i}|MAIL HAS BEEN SENT|")
 
 SMTP_MAIL.quit()
 
